@@ -2,26 +2,26 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FF005C,50:B62BFF,100:141321&section=header" width="100%"/>
 </p>
 
-# I'm Nishant Singh &nbsp;&nbsp;   <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">  </a> &nbsp;&nbsp; ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=nishantksingh1)
+# I'm Sai &nbsp;&nbsp;   <a href="https://github.com/NishantkSingh0/Proctoring-System" target="_blank">  <img src="https://github.com/NishantkSingh0/NishantkSingh0/blob/main/Images/BinaryBunch-modified.png?raw=true"  width="30" height="30" title="Secured third rank on university hackathon TechWizard on project 'proctoring system' (uploaded in this github repository)">  </a> &nbsp;&nbsp; ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=ksai-krishna)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF005C&width=800&lines=Aspiring+Data+Scientist.;Deep+Learning+Enthusiast.;Open+Source+Contributor.;Built+25%2B+Practical+AI+Projects.;LLM+%26+Transformer+Researcher." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF005C&width=800&lines=Deep+Learning+Enthusiast.;Built+25%2B+Practical+AI+Projects.;LLM+%26+Transformer+Researcher." alt="Typing SVG" />
 </a>  
   
 A dedicated AI developer with a deep focus on building machine learning and deep learning models from scratch. My expertise spans RNNs, computer vision, and transformer architectures, where I specialize in designing custom solutions to optimize model accuracy and efficiency. I have hands-on experience with training and fine-tuning advanced models, including BERT, YOLO, ResNet, and VGG, while ensuring that architectures and parameters are tailored to meet project-specific goals. My work ranges from image segmentation and object detection to developing language models, always with an eye on integrating the latest AI advancements.
 
 I am passionate about driving innovation through AI and constantly refining techniques to push the boundaries of performance. Explore my projects and contributions further on my portfolio. **Click below:**
 
-[![Portfolio](./Images/portfolio.jpeg)](https://nishantksingh0.github.io/)
+[![Portfolio](./Images/portfolio.jpeg)](http://ksaikrishna.me/)
 <br><br><br>
 <div align="center"> 
   <a href="https://www.linkedin.com/in/nishantksingh1/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a> 
-  <a href="mailto:nishantsingh.talk@gmail.com" target="_blank"> 
+  <a href="mailto:mail@gmail.com" target="_blank"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
   </a>
-  <a href="https://www.kaggle.com/nishantsingh96" target="_blank">
+  <a href="hhh" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/mr._nishant_singh_" target="_blank">
@@ -54,25 +54,25 @@ I am passionate about driving innovation through AI and constantly refining tech
 <table>
   <tr>
     <td>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nishantksingh0&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ksai-krishna&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" alt="GitHub Stats" />
     </td>
     <td>
-      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishantksingh0&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" />
+      <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksai-krishna&layout=compact&theme=dracula&langs_count=8&hide=html,css" alt="Top Languages" />
     </td>
     <td>
-      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=nishantksingh0&theme=dracula&hide_border=false" alt="GitHub Streak" />
+      <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=ksai-krishna" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="https://github.com/nishantksingh0/">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishantksingh0&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@nishantksingh0's github-readme-streak-stats"/>
+  <a href="https://github.com/ksai-krishna/">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ksai-krishna&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="100%" alt="@sai's github-readme-streak-stats"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishantksingh0&theme=dracula" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ksai-krishna&theme=dracula" alt="GitHub Trophies" />
 </div>
 
 
